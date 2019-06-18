@@ -1,4 +1,4 @@
-**This is the package after the completion of the project.
+This is the package after the completion of the project.
 
 The original Simple Drawing Player played a sound when a rectangle is drawn (and it had a few more features all related to drawing rectangles).
 
