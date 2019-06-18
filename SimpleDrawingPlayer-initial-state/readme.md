@@ -6,9 +6,8 @@ The aim of the project was to add oval functionality (currently non-existant) to
 
 This is a screenshot of the Simple Drawing Player when it only supports rectangles:
 
-![Simple Drawing Player, only rectangles](https://i594.photobucket.com/albums/tt22/meghufree/drawing-player-rectangle-only.png| width=200)
+<img src = "https://i594.photobucket.com/albums/tt22/meghufree/drawing-player-rectangle-only.png" width=200>
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 
