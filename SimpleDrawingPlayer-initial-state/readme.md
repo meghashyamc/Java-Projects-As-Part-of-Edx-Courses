@@ -8,6 +8,8 @@ This is a screenshot of the Simple Drawing Player when it only supports rectangl
 
 ![Simple Drawing Player, only rectangles](https://i594.photobucket.com/albums/tt22/meghufree/drawing-player-rectangle-only.png| width=200)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 
 
