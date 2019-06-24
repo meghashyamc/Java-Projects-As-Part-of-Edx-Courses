@@ -7,3 +7,8 @@ This *new* Simple Drawing Player *also* plays a sound when an oval is also drawn
 This is a screenshot of the Simple Drawing Player when it supports both ovals and rectangles:
 
 <img src = "https://i594.photobucket.com/albums/tt22/meghufree/drawing-player-oval-also.png" width=600>
+
+<b>You can view a video of how the application looks like after added oval functionality below.</b> The original application plays sounds when shapes are drawn or moved although there's no sound in the video below.
+
+https://youtu.be/4RAMy7HSkqk
+
