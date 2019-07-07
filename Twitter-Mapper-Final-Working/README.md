@@ -15,7 +15,7 @@ The final, completed Twitter Mapper:
 - processes <i>and, or, not</i> queries
 - displays markers on the map based on the keywords entered 
 - displays the profile picture of the tweeter and a part of the tweet when you hover over the markers
-- the markers are shown either based on a live Twitter feed (so people who have just used your keyword in their Tweet will show up) or based on a given playback feed.
+- displays the markers either based on a live Twitter feed (so people who have just used your keyword in their Tweet will show up) or based on a given playback feed.
 
 Here's a screenshot of the final Twitter Mapper:
 
