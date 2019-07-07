@@ -21,5 +21,5 @@ Here's a screenshot of the final Twitter Mapper:
 
 <img src = "https://oi594.photobucket.com/albums/tt22/meghufree/Twitter-mapper-final-screenshot.png" width=750>
 
-<b>You can view a video</b> of how the application looks like here:
+<b>You can view a video</b> of how the application works here:
 
