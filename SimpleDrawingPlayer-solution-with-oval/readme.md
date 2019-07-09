@@ -8,7 +8,7 @@ This is a screenshot of the Simple Drawing Player when it supports both ovals an
 
 <img src = "https://i594.photobucket.com/albums/tt22/meghufree/drawing-player-oval-also.png" width=600>
 
-<b>You can view a video of how the application looks like after added oval functionality below.</b> The original application plays sounds when shapes are drawn or moved although there's no sound in the video below.
+<b>You can view a video of how the application looks like after added oval functionality below.</b> The actual application <i>plays </i>sounds when shapes are drawn or moved although there's <i>no</i> sound in the video below.
 
 https://youtu.be/4RAMy7HSkqk
 
